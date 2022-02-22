@@ -5,5 +5,3 @@ color b
 pip install pycenter
 pip install pystyle
 pip install colorama
-pip install webhook
-pip install discord
